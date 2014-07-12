@@ -1,0 +1,116 @@
+/* CSS Document */
+a:link
+{
+text-decoration:none;
+}
+body
+{
+width:100%;
+}
+.top
+{
+width:100%;
+height:90px;
+background:#009900;
+margin:-8px;
+
+background:url('images/back.jpg');
+background-repeat:repeat;
+border-bottom:10px solid #261404;
+}
+.logo
+{
+text-align:left;
+margin-left:20px;
+margin-top:30px;
+color:#FFFFFF;
+font-size:36px;
+}
+#txt
+{
+width:400px;
+height:40px;
+margin-left:10px;
+margin-top:-30px;
+border-radius:4px;
+box-shadow:0px 2px 3px #999999;
+}
+#sel
+{
+width:400px;
+height:auto;
+margin-left:10px;
+margin-top:-30px;
+border-radius:4px;
+box-shadow:0px 2px 3px #999999;
+border:3px solid #261404;
+}
+#btn
+{
+width:200px;
+height:45px;
+margin-left:10px;
+margin-top:-30px;
+border-radius:4px;
+background:url('images/back.jpg');
+box-shadow:0px 3px 3px #999999;
+border:5px solid #261404;
+font-size:24px;
+color:white;
+cursor:pointer;
+}
+#add
+{
+width:300px;
+height:45px;
+margin-left:10px;
+margin-top:-50px;
+margin-right:5px;
+border-radius:4px;
+background:url('images/back.jpg');
+box-shadow:0px 3px 3px #999999;
+border:5px solid #261404;
+font-size:20px;
+color:white;
+float:right;
+cursor:pointer;
+}
+#details
+{
+height:auto;
+border-bottom:5px solid #261404;
+margin-left:-8px;
+margin-top:-5px;
+}
+#gmap
+{
+width:100%;
+height:400px;
+background:url('images/back.jpg');
+}
+#name,#email,#owname,#city,#cou,#desc,#ow,#si
+{
+width:300px;
+height:35px;
+border-radius:4px;
+border:1px solid #261404;
+box-shadow:0px 2px 3px #999999;
+}
+#st
+{
+border-radius:4px;
+border:1px solid #261404;
+box-shadow:0px 2px 3px #999999;
+}
+#bttn,#pre,#del
+{
+width:200px;
+height:45px;
+border-radius:4px;
+background:url('images/back.jpg');
+box-shadow:0px 3px 3px #999999;
+border:5px solid #261404;
+font-size:24px;
+color:white;
+cursor:pointer;
+}
